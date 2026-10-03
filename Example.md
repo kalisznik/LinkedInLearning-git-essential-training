@@ -5,6 +5,8 @@ git add . (všechno)
 
 git status
 
+git commit -m "message-info"
+
 
 
 
